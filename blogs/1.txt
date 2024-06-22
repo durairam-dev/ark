@@ -1,0 +1,32 @@
+It’s less than three decades since I was born. I started fumbling around computers at the age of five, wondering how the hell my computer manages to beat me in chess every time. The fact that it can even play games made me go nuts.
+
+Fast forward 10 years or so, I picked up Blender trying to make some pretty pictures using my computer. It took an eternity to render out a clean image without much noise on my PC which had a whopping 4 GB of RAM.
+
+Fast forward another 5 years, I stumbled upon the OptiX Denoiser that finally made it possible to do clean noiseless renders at decent resolution in 1-2 hours (instead of 10) on my – then proud of – 1050 Ti card. It felt like magic.
+
+Fast forward yet another 5 years, today we have Midjourney, Stable Diffusion, and ChatGPTs of the world, and saying that I’m mind-blown or astonished only pales in comparison to what these things are capable of.
+
+What I used spend hours on – meticulously placing assets, tweaking the lights and composition, doing some routine post production, etc. – now seems to be possible with just a prompt (or few prompts) away.
+
+What next? Where are we heading?
+
+I am not a fan of predicting the future, but looking at the pace of how things have progressed over the last two decades, I can’t help but to wonder how the world is gonna look in another 10 or 20 years.
+
+I hear every day from someone I look up to about how artificial intelligence is gonna make things obsolete. But forgetting about how AI is gonna change this or that, the big picture seems to be clear – with every advancement in AI, more and more of roles in the spectrum of ‘technical’ work are becoming obsolete.
+
+In May of 2021, Paul Graham wrote, “There has never been a better time to be a ‘nerd’. In the past century we’ve seen a continuous transfer of power from ‘dealmakers’ to ‘technicians’ — from the ‘charismatic’ to the ‘competent’ — and I don’t see anything on the horizon that will end it.”
+
+When I read the article, these were the words that jumped out of the screen: “transfer of power from ‘dealmakers’ to ‘technicians’ — from the ‘charismatic’ to the ‘competent’”. I wanted to give Paul a high five when I read that. So beautifully worded.
+
+But he ended that paragraph with a line that reads “At least not till the nerds end it themselves by bringing about the singularity.”
+
+That was just 3 years ago.
+
+Today, the world seems to be shifting towards a future where the ‘how’ doesn’t matter anymore, and it’s all about the ‘why’ and the ‘what’. Where ‘expertise’ doesn’t matter anymore, and it’s all about having a ‘vision’ or being able to ‘dream’. Where the ‘technicians’ don’t matter anymore, and it’s all about being a ‘dealmaker’ who knows what they want.
+
+In 10 or 20 years from now, who will be the technicians? What will they do? Will we have technicians at all? Are the only technicians going to be people building the AI and those who are helping with RLHF?
+
+If that is how the world is gonna look – a world where I no longer have the opportunity to watch a potter make a pot out of clay, an artist paint a portrait or a landscape from a blank canvas, or make pretty renders and write code to build things myself, or what not – it doesn’t make me happy or excited when I think about it.
+
+That reality makes me ‘sad’.
+

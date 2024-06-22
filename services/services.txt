@@ -1,0 +1,15 @@
+I help companies solve technology problems at the intersection of 3D, programming, and computer graphics through bespoke software development.
+
+I have experience in building CLIs, custom tools for viewing/manipulating 3D assets, building data pipelines, process automation and computer graphics in general. Checkout my works, github or blog to get an idea about the things I do.
+
+Of course, every project has it’s own unique problems, but if any of the following even remotely rings a bell with the problems you have, I may be able to help you out:
+
+3D Model Conversions: You are dealing with a lot of 3D models where you need some kind of conversion between various formats or to a final delivery format like GLB, USDZ, etc.
+
+Automation/Optimization: You are doing some form of 3D work and you feel there is a lot of time and energy spent on things other than the actual work/craft.
+
+Pipeline/Integration: You are using multiple tools and you are facing issues in interoperability, overhead in moving data between tools, etc.
+
+Workflow Development: You are doing some form of 3D with tough challenges that are crucial to your day-to-day operations and you think you might benefit from a well-designed workflow.
+
+I am skilled in Python, Blender, GLTF and Three.js, but I am open to exploring new technologies if the problem demands. For example, in the past, I have used technologies like Unity, C#, 3ds Max/MaxScript, etc. to mention a few.

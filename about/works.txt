@@ -1,0 +1,15 @@
+I constantly expand my horizons through small experiments that challenge me with learning new tools, techniques or technologies, and I write about them on my blog.
+
+You can find some of the open-source tools I have developed on GitHub. My personal favorites:
+
+1. Blender-FreeCAD Live Link add-on for Blender
+
+2. Zen3D for converting assets to GLTF
+
+3. Modifier Stack Manager add-on for Blender
+
+Before that, I used to do architectural visualization for a copule of years. You can find some of my artworks and behind the scenes on Artstation and Instagram. Again, my personal favorites:
+
+1. The Solar Tree Pavilion
+
+2. The Flamingo Observatory

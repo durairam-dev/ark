@@ -1,0 +1,13 @@
+Hi, I am Salai. 👋
+
+I am a creative technologist from India, helping companies at the intersection of 3D, programming, and computer graphics through bespoke software development. I am particularly interested in Python, Blender, Three.js, GLTF, web development, and 3D graphics in general.
+
+I have a wide range of experience in building CLIs, custom tools for viewing and manipulating 3D assets, 3D visualization, process automation, etc. and I am open to contracts
+
+I love reading, and I read a lot of books (mostly non-fiction). I also read a lot of newsletters and blogs from various people I follow. I write regularly here and on Twitter and LinkedIn.
+
+I find the writings and philosophies of people like David Heinemeier Hansson, Sahil Lavingia, Daniel Vasallo, and Naval Ravikant to be very intriguing. Their world view resonates with me and I truly believe in making small bets rather than grand plans.
+
+I am a big fan of and a true believer in open-source. Blender was my introduction to the world of open-source and my life has changed in unexpected ways since then.
+
+I love good food and I wander around city to find good stuff to eat. Let me know if you want list of must try items in Chennai! 😀

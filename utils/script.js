@@ -1,7 +1,3 @@
-window.onload = function () {
-  loadContent();
-};
-
 async function readTextFile(filePath) {
   try {
     const response = await fetch(filePath);
@@ -15,9 +11,9 @@ async function readTextFile(filePath) {
   }
 }
 
-function generateParagraphs(text) {
+function generateParagraphs(text, id) {
   const paragraphs = text.split(/\n\s*\n/); // Split by empty lines
-  const contentDiv = document.getElementById("blog-content");
+  const contentDiv = document.getElementById(id);
 
   paragraphs.forEach((paragraph) => {
     const p = document.createElement("p");
@@ -26,10 +22,9 @@ function generateParagraphs(text) {
   });
 }
 
-async function loadContent() {
-  const filePath = "../blogs/1.txt"; // Replace with your file path
+async function loadContent(filePath, id) {
   const text = await readTextFile(filePath);
   if (text) {
-    generateParagraphs(text);
+    generateParagraphs(text, id);
   }
 }
